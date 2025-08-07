@@ -49,6 +49,10 @@ Churn is a critical metric in the credit card industry. High customer attrition 
 - Visuals: Churn by Gender, Age Group, Education, Card Type
 - Slicers and interactivity
 - DAX for churn metrics and age group sorting
+  
+### 🔍 Power BI Dashboard Overview
+
+  ![Dashboard Screenshot](https://github.com/hey-sree/credit-card-churn-analysis/blob/main/images/Dashboard_Screenshot.png.png?raw=true)
 
 📊 Dashboard Highlights
 
