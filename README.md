@@ -66,21 +66,6 @@ Churn is a critical metric in the credit card industry. High customer attrition 
 ✅ High-impact visual storytelling
 ✅ Suitable for Fintech / MNC stakeholder presentation
 
-📁 Project Folder Structure
-
-Credit_Card_Churn_Analysis/
-├── 📊 Power BI Dashboard
-│   └── churn_analysis_dashboard.pbix
-├── 🐍 Python Modeling
-│   └── churn_model_EDA_ML.ipynb
-├── 🧮 SQL
-│   └── churn_queries.sql
-├── 📈 Excel Cleaning
-│   └── bank_churn_cleaned.xlsx
-├── 📑 Documentation
-│   ├── README.md
-│   ├── Project_Report.docx
-│   └── Dashboard_Screenshot.png
 
 ✅ Key Outcomes
 
